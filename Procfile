@@ -1,0 +1,1 @@
+web: gunicorn cpdai.wsgi.py --log-file -
