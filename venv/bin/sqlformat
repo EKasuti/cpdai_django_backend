@@ -1,4 +1,6 @@
-#!/Users/emmanuelmakau/Desktop/django_test/venv/bin/python3
+#!/bin/sh
+'''exec' "/Users/emmanuelmakau/Desktop/Personal Projects/cpdai_django_backend/venv/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

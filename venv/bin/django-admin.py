@@ -1,4 +1,4 @@
-#!/Users/emmanuelmakau/Desktop/django_test/venv/bin/python3
+#!/Users/emmanuelmakau/Desktop/Personal Projects/cpdai_django_backend/venv/bin/python3
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
