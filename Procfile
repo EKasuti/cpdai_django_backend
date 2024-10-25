@@ -1,1 +1,1 @@
-web: gunicorn cpdai.wsgi.py --log-file -
+web: gunicorn cpdai.wsgi --log-file -
